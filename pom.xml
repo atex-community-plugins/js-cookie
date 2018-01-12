@@ -36,7 +36,7 @@
   <scm>
     <developerConnection>scm:git:git@github.com:atex-community-plugins/js-cookie.git</developerConnection>
     <url>https://github.com/atex-community-plugins/js-cookie</url>
-    <tag>js-cookie-2.2.0-1</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <distributionManagement>
@@ -61,7 +61,7 @@
   <groupId>com.atex.plugins</groupId>
   <artifactId>js-cookie</artifactId>
   <!-- Versioning scheme: <jquery version> '-' <revision of plugin for this jquery version> -->
-  <version>2.2.0-1</version>
+  <version>2.2.0-2-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <properties>
